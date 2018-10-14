@@ -1,2 +1,2 @@
 # vcfmerge
-Merge haplotypes VCF files
+Merge haplotype VCF files
